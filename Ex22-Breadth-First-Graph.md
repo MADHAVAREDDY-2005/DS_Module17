@@ -15,7 +15,7 @@ To write a printQueue C function of the given graph that is to be traversed in t
 
 4.Use a for loop to iterate from q->front to q->rear, printing each item in q->items[i].
 
-5.nd the loop and function after printing all items.
+5.End the loop and function after printing all items.
 
 ## Program:
 ```
